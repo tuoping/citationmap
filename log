@@ -1,0 +1,1249 @@
+Total num of articles = 416
+['recent', 'advances', 'and', 'applications', 'of', 'machine', 'learning', 'in', 'solid', 'state', 'materials', 'science']
+
+
+['', 'physnet', '', '', 'a', 'neural', 'network', 'for', 'predicting', 'energies,', 'forces,', 'dipole', 'moments,', 'and', 'partial', 'charges']
+
+
+['schnet–a', 'deep', 'learning', 'architecture', 'for', 'molecules', 'and', 'materials']
+
+
+['', 'pde', '', 'net', '2.0', '', 'learning', '', 'pdes', '', 'from', 'data', 'with', 'a', 'numeric', 'symbolic', 'hybrid', 'deep', 'network']
+
+
+['machine', 'learning', 'a', 'general', 'purpose', 'interatomic', 'potential', 'for', 'silicon']
+
+
+['machine', 'learning', 'and', 'the', 'physical', 'sciences']
+
+
+['', 'deepmd', '', 'kit', '', 'a', 'deep', 'learning', 'package', 'for', 'many', 'body', 'potential', 'energy', 'representation', 'and', 'molecular', 'dynamics']
+
+
+['towards', 'exact', 'molecular', 'dynamics', 'simulations', 'with', 'machine', 'learned', 'force', 'fields']
+
+
+['from', '', 'dft', '', 'to', 'machine', 'learning', '', 'recent', 'approaches', 'to', 'materials', 'science–a', 'review']
+
+
+['machine', 'learning', 'of', 'coarse', 'grained', 'molecular', 'dynamics', 'force', 'fields']
+
+
+['active', 'learning', 'of', 'uniformly', 'accurate', 'interatomic', 'potentials', 'for', 'materials', 'simulation']
+
+
+['performance', 'and', 'cost', 'assessment', 'of', 'machine', 'learning', 'interatomic', 'potentials']
+
+
+['deep', 'learning', 'in', 'chemistry']
+
+
+['a', 'critical', 'review', 'of', 'machine', 'learning', 'of', 'energy', 'materials']
+
+
+['library', 'based', '', 'lammps', '', 'implementation', 'of', 'high', 'dimensional', 'neural', 'network', 'potentials']
+
+
+['', 'schnetpack', '', '', 'a', 'deep', 'learning', 'toolbox', 'for', 'atomistic', 'systems']
+
+
+['transferable', 'machine', 'learning', 'model', 'of', 'the', 'electron', 'density']
+
+
+['', 'deepcg', '', '', 'constructing', 'coarse', 'grained', 'models', 'via', 'deep', 'neural', 'networks']
+
+
+['end', 'to', 'end', 'symmetry', 'preserving', 'inter', 'atomic', 'potential', 'energy', 'model', 'for', 'finite', 'and', 'extended', 'systems']
+
+
+['cormorant', '', 'covariant', 'molecular', 'neural', 'networks']
+
+
+['quantum', 'chemistry', 'in', 'the', 'age', 'of', 'machine', 'learning']
+
+
+['nonadiabatic', 'excited', 'state', 'dynamics', 'with', 'machine', 'learning']
+
+
+['a', 'quantitative', 'uncertainty', 'metric', 'controls', 'error', 'in', 'neural', 'network', 'driven', 'chemical', 'discovery']
+
+
+['solving', 'many', 'electron', 'schrödinger', 'equation', 'using', 'deep', 'neural', 'networks']
+
+
+['a', 'universal', 'density', 'matrix', 'functional', 'from', 'molecular', 'orbital', 'based', 'machine', 'learning', '', 'transferability', 'across', 'organic', 'molecules']
+
+
+['', 'fchl', '', 'revisited', '', 'faster', 'and', 'more', 'accurate', 'quantum', 'machine', 'learning']
+
+
+['atom', 'density', 'representations', 'for', 'machine', 'learning']
+
+
+['', 'sgdml', '', '', 'constructing', 'accurate', 'and', 'data', 'efficient', 'molecular', 'force', 'fields', 'using', 'machine', 'learning']
+
+
+['deep', 'learning', 'for', 'nonadiabatic', 'excited', 'state', 'dynamics']
+
+
+['autonomous', 'discovery', 'in', 'the', 'chemical', 'sciences', 'part', 'i', '', 'progress']
+
+
+['integrating', 'physics', 'based', 'modeling', 'with', 'machine', 'learning', '', 'a', 'survey']
+
+
+['embedded', 'atom', 'neural', 'network', 'potentials', '', 'efficient', 'and', 'accurate', 'machine', 'learning', 'with', 'a', 'physically', 'inspired', 'representation']
+
+
+['neural', 'networks', 'based', 'variationally', 'enhanced', 'sampling']
+
+
+['silicon', 'liquid', 'structure', 'and', 'crystal', 'nucleation', 'from', 'ab', 'initio', 'deep', 'metadynamics']
+
+
+['n', 'body', 'networks', '', 'a', 'covariant', 'hierarchical', 'neural', 'network', 'architecture', 'for', 'learning', 'atomic', 'potentials']
+
+
+['inclusion', 'of', 'machine', 'learning', 'kernel', 'ridge', 'regression', 'potential', 'energy', 'surfaces', 'in', 'on', 'the', 'fly', 'nonadiabatic', 'molecular', 'dynamics', 'simulation']
+
+
+['de', 'novo', 'exploration', 'and', 'self', 'guided', 'learning', 'of', 'potential', 'energy', 'surfaces']
+
+
+['machine', 'learning', 'for', 'interatomic', 'potential', 'models']
+
+
+['recent', 'advances', 'in', 'machine', 'learning', 'towards', 'multiscale', 'soft', 'materials', 'design']
+
+
+['molecular', 'force', 'fields', 'with', 'gradient', 'domain', 'machine', 'learning', '', 'construction', 'and', 'application', 'to', 'dynamics', 'of', 'small', 'molecules', 'with', 'coupled', 'cluster', 'forces']
+
+
+['feature', 'optimization', 'for', 'atomistic', 'machine', 'learning', 'yields', 'a', 'data', 'driven', 'construction', 'of', 'the', 'periodic', 'table', 'of', 'the', 'elements']
+
+
+['graph', 'dynamical', 'networks', 'for', 'unsupervised', 'learning', 'of', 'atomic', 'scale', 'dynamics', 'in', 'materials']
+
+
+['bridging', 'the', 'gap', 'between', 'direct', 'dynamics', 'and', 'globally', 'accurate', 'reactive', 'potential', 'energy', 'surfaces', 'using', 'neural', 'networks']
+
+
+['incorporating', 'long', 'range', 'physics', 'in', 'atomic', 'scale', 'machine', 'learning']
+
+
+['atomic', 'energies', 'from', 'a', 'convolutional', 'neural', 'network']
+
+
+['learning', 'from', 'failure', '', 'predicting', 'electronic', 'structure', 'calculation', 'outcomes', 'with', 'machine', 'learning', 'models']
+
+
+['', 'dp', '', '', 'gen', '', '', 'a', 'concurrent', 'learning', 'platform', 'for', 'the', 'generation', 'of', 'reliable', 'deep', 'learning', 'based', 'potential', 'energy', 'models']
+
+
+['free', 'energy', 'of', 'proton', 'transfer', 'at', 'the', 'water–', 'tio', '', '2', 'interface', 'from', 'ab', 'initio', 'deep', 'potential', 'molecular', 'dynamics']
+
+
+['combining', '', 'schnet', '', 'and', '', 'sharc', '', '', 'the', '', 'schnarc', '', 'machine', 'learning', 'approach', 'for', 'excited', 'state', 'dynamics']
+
+
+['raman', 'spectrum', 'and', 'polarizability', 'of', 'liquid', 'water', 'from', 'deep', 'neural', 'networks']
+
+
+['quantum', 'chemical', 'accuracy', 'from', 'density', 'functional', 'approximations', 'via', 'machine', 'learning']
+
+
+['uniformly', 'accurate', 'machine', 'learning', 'based', 'hydrodynamic', 'models', 'for', 'kinetic', 'equations']
+
+
+['better', 'approximations', 'of', 'high', 'dimensional', 'smooth', 'functions', 'by', 'deep', 'neural', 'networks', 'with', 'rectified', 'power', 'units']
+
+
+['', 'orbnet', '', '', 'deep', 'learning', 'for', 'quantum', 'chemistry', 'using', 'symmetry', 'adapted', 'atomic', 'orbital', 'features']
+
+
+['simulations', 'meet', 'machine', 'learning', 'in', 'structural', 'biology']
+
+
+['theoretical', 'prediction', 'on', 'thermal', 'and', 'mechanical', 'properties', 'of', 'high', 'entropy', '(zr0.', '2hf0.', '2ti0.', '2nb0.', '2ta0.', '2)', 'c', 'by', 'deep', 'learning', 'potential']
+
+
+['a', 'perspective', 'on', 'inverse', 'design', 'of', 'battery', 'interphases', 'using', 'multi', 'scale', 'modelling,', 'experiments', 'and', 'generative', 'deep', 'learning']
+
+
+['ab', 'initio', 'phase', 'diagram', 'and', 'nucleation', 'of', 'gallium']
+
+
+['reinforced', 'dynamics', 'for', 'enhanced', 'sampling', 'in', 'large', 'atomic', 'and', 'molecular', 'systems']
+
+
+['machine', 'learning', 'enhanced', 'global', 'optimization', 'by', 'clustering', 'local', 'environments', 'to', 'enable', 'bundled', 'atomic', 'energies']
+
+
+['fast,', 'accurate,', 'and', 'transferable', 'many', 'body', 'interatomic', 'potentials', 'by', 'symbolic', 'regression']
+
+
+['monge', 'amp\\$', '\\textbackslash', 'backslash\\$ere', 'flow', 'for', 'generative', 'modeling']
+
+
+['machine', 'learning', 'for', 'electronically', 'excited', 'states', 'of', 'molecules']
+
+
+['machine', 'learning', 'interatomic', 'potential', 'for', 'radiation', 'damage', 'and', 'defects', 'in', 'tungsten']
+
+
+['deep', 'learning', 'in', 'protein', 'structural', 'modeling', 'and', 'design']
+
+
+['theoretical', 'insights', 'into', 'the', 'surface', 'physics', 'and', 'chemistry', 'of', 'redox', 'active', 'oxides']
+
+
+['deep', 'neural', 'network', 'for', 'the', 'dielectric', 'response', 'of', 'insulators']
+
+
+['regression', 'clustering', 'for', 'improved', 'accuracy', 'and', 'training', 'costs', 'with', 'molecular', 'orbital', 'based', 'machine', 'learning']
+
+
+['learning', 'the', 'physics', 'of', 'pattern', 'formation', 'from', 'images']
+
+
+['kernel', 'based', 'machine', 'learning', 'for', 'efficient', 'simulations', 'of', 'molecular', 'liquids']
+
+
+['deep', 'potential', 'molecular', 'dynamics', 'simulation', 'of', '100', 'million', 'atoms', 'with', 'ab', 'initio', 'accuracy']
+
+
+['', 'torchani', '', '', 'a', 'free', 'and', 'open', 'source', '', 'pytorch', '', 'based', 'deep', 'learning', 'implementation', 'of', 'the', '', 'ani', '', 'neural', 'network', 'potentials']
+
+
+['accuracy,', 'transferability,', 'and', 'efficiency', 'of', 'coarse', 'grained', 'models', 'of', 'molecular', 'liquids']
+
+
+['atomic', 'energy', 'mapping', 'of', 'neural', 'network', 'potential']
+
+
+['electronic', 'structure', 'at', 'coarse', 'grained', 'resolutions', 'from', 'supervised', 'machine', 'learning']
+
+
+['machine', 'learning', 'force', 'fields']
+
+
+['a', 'unified', 'picture', 'of', 'the', 'covalent', 'bond', 'within', 'quantum', 'accurate', 'force', 'fields', '', 'from', 'organic', 'molecules', 'to', 'metallic', 'complexes’', 'reactivity']
+
+
+['pushing', 'the', 'limit', 'of', 'molecular', 'dynamics', 'with', 'ab', 'initio', 'accuracy', 'to', '100', 'million', 'atoms', 'with', 'machine', 'learning']
+
+
+['machine', 'learning', 'and', 'molecular', 'design', 'of', 'self', 'assembling', 'conjugated', 'oligopeptides']
+
+
+['a', 'type', 'of', 'generalization', 'error', 'induced', 'by', 'initialization', 'in', 'deep', 'neural', 'networks']
+
+
+['ensemble', 'learning', 'of', 'coarse', 'grained', 'molecular', 'dynamics', 'force', 'fields', 'with', 'a', 'kernel', 'approach']
+
+
+['automated', 'calculation', 'of', 'thermal', 'rate', 'coefficients', 'using', 'ring', 'polymer', 'molecular', 'dynamics', 'and', 'machine', 'learning', 'interatomic', 'potentials', 'with', 'active', 'learning']
+
+
+['the', '', 'mlip', '', 'package', '', 'moment', 'tensor', 'potentials', 'with', '', 'mpi', '', 'and', 'active', 'learning']
+
+
+['learning', 'from', 'the', 'density', 'to', 'correct', 'total', 'energy', 'and', 'forces', 'in', 'first', 'principle', 'simulations']
+
+
+['', 'pinn', '', '', 'a', 'python', 'library', 'for', 'building', 'atomic', 'neural', 'networks', 'of', 'molecules', 'and', 'materials']
+
+
+['ground', 'state', 'energy', 'functional', 'with', 'hartree–fock', 'efficiency', 'and', 'chemical', 'accuracy']
+
+
+['fast', 'and', 'accurate', 'molecular', 'property', 'prediction', '', 'learning', 'atomic', 'interactions', 'and', 'potentials', 'with', 'neural', 'networks']
+
+
+['molecular', 'modeling', 'investigations', 'of', 'sorption', 'and', 'diffusion', 'of', 'small', 'molecules', 'in', 'glassy', 'polymers']
+
+
+['targeted', 'free', 'energy', 'estimation', 'via', 'learned', 'mappings']
+
+
+['machine', 'learning', 'based', 'interatomic', 'potential', 'for', 'phonon', 'transport', 'in', 'perfect', 'crystalline', 'si', 'and', 'crystalline', 'si', 'with', 'vacancies']
+
+
+['simulating', 'diffusion', 'properties', 'of', 'solid', 'state', 'electrolytes', 'via', 'a', 'neural', 'network', 'potential', '', 'performance', 'and', 'training', 'scheme']
+
+
+['coarse', 'graining', 'molecular', 'dynamics', 'with', 'graph', 'neural', 'networks']
+
+
+['committee', 'neural', 'network', 'potentials', 'control', 'generalization', 'errors', 'and', 'enable', 'active', 'learning']
+
+
+['hierarchical', 'machine', 'learning', 'of', 'potential', 'energy', 'surfaces']
+
+
+['computing', '', 'rpa', '', 'adsorption', 'enthalpies', 'by', 'machine', 'learning', 'thermodynamic', 'perturbation', 'theory']
+
+
+['deep', 'learning', 'inter', 'atomic', 'potential', 'model', 'for', 'accurate', 'irradiation', 'damage', 'simulations']
+
+
+['machine', 'learning', 'x', 'ray', 'absorption', 'spectra', 'to', 'quantitative', 'accuracy']
+
+
+['transforming', 'solid', 'state', 'precipitates', 'via', 'excess', 'vacancies']
+
+
+['neural', 'canonical', 'transformation', 'with', 'symplectic', 'flows']
+
+
+['numerical', 'methods', 'for', 'kohn–sham', 'density', 'functional', 'theory']
+
+
+['a', 'unified', 'deep', 'neural', 'network', 'potential', 'capable', 'of', 'predicting', 'thermal', 'conductivity', 'of', 'silicon', 'in', 'different', 'phases']
+
+
+['machine', 'learning', 'and', 'excited', 'state', 'molecular', 'dynamics']
+
+
+['isotope', 'effects', 'in', 'liquid', 'water', 'via', 'deep', 'potential', 'molecular', 'dynamics']
+
+
+['on', 'the', 'role', 'of', 'gradients', 'for', 'machine', 'learning', 'of', 'molecular', 'energies', 'and', 'forces']
+
+
+['development', 'of', 'a', 'deep', 'machine', 'learning', 'interatomic', 'potential', 'for', 'metalloid', 'containing', 'pd', 'si', 'compounds']
+
+
+['chebnet', '', 'efficient', 'and', 'stable', 'constructions', 'of', 'deep', 'neural', 'networks', 'with', 'rectified', 'power', 'units', 'using', 'chebyshev', 'approximations']
+
+
+['transferable', 'multilevel', 'attention', 'neural', 'network', 'for', 'accurate', 'prediction', 'of', 'quantum', 'chemistry', 'properties', 'via', 'multitask', 'learning']
+
+
+['predicting', 'molecular', 'energy', 'using', 'force', 'field', 'optimized', 'geometries', 'and', 'atomic', 'vector', 'representations', 'learned', 'from', 'an', 'improved', 'deep', 'tensor', 'neural', 'network']
+
+
+['size', 'and', 'temperature', 'transferability', 'of', 'direct', 'and', 'local', 'deep', 'neural', 'networks', 'for', 'atomic', 'forces']
+
+
+['recursive', 'evaluation', 'and', 'iterative', 'contraction', 'of', 'n', 'body', 'equivariant', 'features']
+
+
+['density', 'functionals', 'with', 'quantum', 'chemical', 'accuracy', '', 'from', 'machine', 'learning', 'to', 'molecular', 'dynamics']
+
+
+['integrating', 'machine', 'learning', 'with', 'the', 'multilayer', 'energy', 'based', 'fragment', 'method', 'for', 'excited', 'states', 'of', 'large', 'systems']
+
+
+['compressing', 'physics', 'with', 'an', 'autoencoder', '', 'creating', 'an', 'atomic', 'species', 'representation', 'to', 'improve', 'machine', 'learning', 'models', 'in', 'the', 'chemical', 'sciences']
+
+
+['differentiable', 'molecular', 'simulations', 'for', 'control', 'and', 'learning']
+
+
+['combining', 'the', 'fragmentation', 'approach', 'and', 'neural', 'network', 'potential', 'energy', 'surfaces', 'of', 'fragments', 'for', 'accurate', 'calculation', 'of', 'protein', 'energy']
+
+
+['', 'pfnn', '', '', 'a', 'penalty', 'free', 'neural', 'network', 'method', 'for', 'solving', 'a', 'class', 'of', 'second', 'order', 'boundary', 'value', 'problems', 'on', 'complex', 'geometries']
+
+
+['complex', 'reaction', 'processes', 'in', 'combustion', 'unraveled', 'by', 'neural', 'network', 'based', 'molecular', 'dynamics', 'simulation']
+
+
+['discovery', 'and', 'design', 'of', 'soft', 'polymeric', 'bio', 'inspired', 'materials', 'with', 'multiscale', 'simulations', 'and', 'artificial', 'intelligence']
+
+
+['efficient', 'prediction', 'of', '3d', 'electron', 'densities', 'using', 'machine', 'learning']
+
+
+['modelling', 'and', 'understanding', 'battery', 'materials', 'with', 'machine', 'learning', 'driven', 'atomistic', 'simulations']
+
+
+['deep', 'fictitious', 'play', 'for', 'finding', 'markovian', 'nash', 'equilibrium', 'in', 'multi', 'agent', 'games']
+
+
+['modeling', 'electrochemical', 'interfaces', 'from', 'ab', 'initio', 'molecular', 'dynamics', '', 'water', 'adsorption', 'on', 'metal', 'surfaces', 'at', 'potential', 'of', 'zero', 'charge']
+
+
+['enumeration', 'of', 'de', 'novo', 'inorganic', 'complexes', 'for', 'chemical', 'discovery', 'and', 'machine', 'learning']
+
+
+['structure', 'and', 'dynamics', 'of', 'warm', 'dense', 'aluminum', '', 'a', 'molecular', 'dynamics', 'study', 'with', 'density', 'functional', 'theory', 'and', 'deep', 'potential']
+
+
+['panna', '', 'properties', 'from', 'artificial', 'neural', 'network', 'architectures']
+
+
+['signatures', 'of', 'a', 'liquid–liquid', 'transition', 'in', 'an', 'ab', 'initio', 'deep', 'neural', 'network', 'model', 'for', 'water']
+
+
+['a', 'deep', 'learning', 'potential', 'for', 'crystalline', 'and', 'amorphous', 'li–si', 'alloys']
+
+
+['a', 'general', 'purpose', 'machine', 'learning', 'force', 'field', 'for', 'bulk', 'and', 'nanostructured', 'phosphorus']
+
+
+['short', 'solvent', 'model', 'for', 'ion', 'correlations', 'and', 'hydrophobic', 'association']
+
+
+['machine', 'learned', 'hückel', 'theory', '', 'interfacing', 'physics', 'and', 'deep', 'neural', 'networks']
+
+
+['transferability', 'of', 'neural', 'network', 'potentials', 'for', 'varying', 'stoichiometry', '', 'phonons', 'and', 'thermal', 'conductivity', 'of', 'mn', 'x', 'ge', 'y', 'compounds']
+
+
+['se', '(3)', 'equivariant', 'graph', 'neural', 'networks', 'for', 'data', 'efficient', 'and', 'accurate', 'interatomic', 'potentials']
+
+
+['efficient', 'construction', 'of', 'excited', 'state', 'hessian', 'matrices', 'with', 'machine', 'learning', 'accelerated', 'multilayer', 'energy', 'based', 'fragment', 'method']
+
+
+['data', 'driven', 'approaches', 'can', 'overcome', 'the', 'cost–accuracy', 'trade', 'off', 'in', 'multireference', 'diagnostics']
+
+
+['molecular', 'dynamics', 'properties', 'without', 'the', 'full', 'trajectory', '', 'a', 'denoising', 'autoencoder', 'network', 'for', 'properties', 'of', 'simple', 'liquids']
+
+
+['deep', 'learning', 'for', '', 'uv', '', 'absorption', 'spectra', 'with', '', 'schnarc', '', '', 'first', 'steps', 'toward', 'transferability', 'in', 'chemical', 'compound', 'space']
+
+
+['construction', 'of', 'machine', 'learned', 'force', 'fields', 'with', 'quantum', 'chemical', 'accuracy', '', 'applications', 'and', 'chemical', 'insights']
+
+
+['large', 'scale', 'atomic', 'simulation', 'via', 'machine', 'learning', 'potentials', 'constructed', 'by', 'global', 'potential', 'energy', 'surface', 'exploration']
+
+
+['enabling', 'large', 'scale', 'condensed', 'phase', 'hybrid', 'density', 'functional', 'theory', 'based', 'ab', 'initio', 'molecular', 'dynamics.', '1.', 'theory,', 'algorithm,', 'and', 'performance']
+
+
+['rapid', 'detection', 'of', 'strong', 'correlation', 'with', 'machine', 'learning', 'for', 'transition', 'metal', 'complex', 'high', 'throughput', 'screening']
+
+
+['bergman', 'type', 'medium', 'range', 'order', 'in', 'amorphous', 'zr77rh23', 'alloy', 'studied', 'by', 'ab', 'initio', 'molecular', 'dynamics', 'simulations']
+
+
+['a', 'fast', 'neural', 'network', 'approach', 'for', 'direct', 'covariant', 'forces', 'prediction', 'in', 'complex', 'multi', 'element', 'extended', 'systems']
+
+
+['a', 'perspective', 'on', 'deep', 'learning', 'for', 'molecular', 'modeling', 'and', 'simulations']
+
+
+['catalytic', 'materials', 'and', 'chemistry', 'development', 'using', 'a', 'synergistic', 'combination', 'of', 'machine', 'learning', 'and', 'ab', 'initio', 'methods']
+
+
+['efficient', 'multiscale', 'optoelectronic', 'prediction', 'for', 'conjugated', 'polymers']
+
+
+['active', 'learning', 'of', 'many', 'body', 'configuration', 'space', '', 'application', 'to', 'the', 'cs+–water', '', 'mb', '', 'nrg', 'potential', 'energy', 'function', 'as', 'a', 'case', 'study']
+
+
+['high', 'repetition', 'rate', 'femtosecond', 'mid', 'infrared', 'pulses', 'generated', 'by', 'nonlinear', 'optical', 'modulation', 'of', 'continuous', 'wave', '', 'qcls', '', 'and', '', 'icls', '']
+
+
+['deep', 'density', '', 'circumventing', 'the', 'kohn', 'sham', 'equations', 'via', 'symmetry', 'preserving', 'neural', 'networks']
+
+
+['on', 'the', 'fly', 'bayesian', 'active', 'learning', 'of', 'interpretable', 'force', 'fields', 'for', 'atomistic', 'rare', 'events']
+
+
+['a', 'data', 'driven', 'construction', 'of', 'the', 'periodic', 'table', 'of', 'the', 'elements']
+
+
+['atomic', 'scale', 'representation', 'and', 'statistical', 'learning', 'of', 'tensorial', 'properties']
+
+
+['universal', 'approximation', 'of', 'symmetric', 'and', 'anti', 'symmetric', 'functions']
+
+
+['analysis', 'of', 'trajectory', 'similarity', 'and', 'configuration', 'similarity', 'in', 'on', 'the', 'fly', 'surface', 'hopping', 'simulation', 'on', 'multi', 'channel', 'nonadiabatic', 'photoisomerization', 'dynamics']
+
+
+['gaussian', 'approximation', 'potentials', 'for', 'body', 'centered', 'cubic', 'transition', 'metals']
+
+
+['guidelines', 'for', 'creating', 'artificial', 'neural', 'network', 'empirical', 'interatomic', 'potential', 'from', 'first', 'principles', 'molecular', 'dynamics', 'data', 'under', 'specific', 'conditions', 'and', 'its', 'application', 'to', 'α', 'ag2se']
+
+
+['properties', 'of', 'α', 'brass', 'nanoparticles.', '1.', 'neural', 'network', 'potential', 'energy', 'surface']
+
+
+['biomolecular', '', 'qm', '/', 'mm', '', 'simulations', '', 'what', 'are', 'some', 'of', 'the', '“burning', 'issues”?']
+
+
+['efficient', 'and', 'accurate', 'simulations', 'of', 'vibrational', 'and', 'electronic', 'spectra', 'with', 'symmetry', 'preserving', 'neural', 'network', 'models', 'for', 'tensorial', 'properties']
+
+
+['combining', 'phonon', 'accuracy', 'with', 'high', 'transferability', 'in', 'gaussian', 'approximation', 'potential', 'models']
+
+
+['a', 'deep', 'neural', 'network', 'interatomic', 'potential', 'for', 'studying', 'thermal', 'conductivity', 'of', 'β', 'ga2o3']
+
+
+['generalizable', 'protein', 'interface', 'prediction', 'with', 'end', 'to', 'end', 'learning']
+
+
+['molecular', 'dynamics', 'simulation', 'of', 'zinc', 'ion', 'in', 'water', 'with', 'an', 'ab', 'initio', 'based', 'neural', 'network', 'potential']
+
+
+['', 'deepks', '', '', 'a', 'comprehensive', 'data', 'driven', 'approach', 'toward', 'chemically', 'accurate', 'density', 'functional', 'theory']
+
+
+['adaptive', 'coupling', 'of', 'a', 'deep', 'neural', 'network', 'potential', 'to', 'a', 'classical', 'force', 'field']
+
+
+['assessment', 'of', 'localized', 'and', 'randomized', 'algorithms', 'for', 'electronic', 'structure']
+
+
+['exploiting', 'machine', 'learning', 'to', 'efficiently', 'predict', 'multidimensional', 'optical', 'spectra', 'in', 'complex', 'environments']
+
+
+['multi', 'scale', 'approach', 'for', 'the', 'prediction', 'of', 'atomic', 'scale', 'properties']
+
+
+['when', 'do', 'short', 'range', 'atomistic', 'machine', 'learning', 'models', 'fall', 'short?']
+
+
+['connection', 'between', 'liquid', 'and', 'non', 'crystalline', 'solid', 'phases', 'in', 'water']
+
+
+['high', 'throughput', 'study', 'of', 'lattice', 'thermal', 'conductivity', 'in', 'binary', 'rocksalt', 'and', 'zinc', 'blende', 'compounds', 'including', 'higher', 'order', 'anharmonicity']
+
+
+['the', 'role', 'of', 'feature', 'space', 'in', 'atomistic', 'learning']
+
+
+['evaluation', 'of', 'experimental', 'alkali', 'metal', 'ion–ligand', 'noncovalent', 'bond', 'strengths', 'with', '', 'dlpno', '', '', 'ccsd', '', '(t)', 'method']
+
+
+['machine', 'learning', 'accelerated', 'quantum', 'mechanics', 'based', 'atomistic', 'simulations', 'for', 'industrial', 'applications']
+
+
+['theory', 'and', 'practice', 'of', 'atom', 'density', 'representations', 'for', 'machine', 'learning']
+
+
+['four', 'generations', 'of', 'high', 'dimensional', 'neural', 'network', 'potentials']
+
+
+['using', 'metadynamics', 'to', 'build', 'neural', 'network', 'potentials', 'for', 'reactive', 'events', '', 'the', 'case', 'of', 'urea', 'decomposition', 'in', 'water']
+
+
+['gas', 'phase', 'silver', 'thermochemistry', 'from', 'first', 'principles']
+
+
+['accurate', 'molecular', 'dynamics', 'enabled', 'by', 'efficient', 'physically', 'constrained', 'machine', 'learning', 'approaches']
+
+
+['hydrogen', 'dynamics', 'in', 'supercritical', 'water', 'probed', 'by', 'neutron', 'scattering', 'and', 'computer', 'simulations']
+
+
+['atomistic', 'simulations', 'of', 'the', 'thermal', 'conductivity', 'of', 'liquids']
+
+
+['machine', 'learning', 'assisted', 'excited', 'state', 'molecular', 'dynamics', 'with', 'the', 'state', 'interaction', 'state', 'averaged', 'spin', 'restricted', 'ensemble', 'referenced', 'kohn–sham', 'approach']
+
+
+['physics', 'informed', 'machine', 'learning']
+
+
+['quantum', 'trajectory', 'mean', 'field', 'method', 'for', 'nonadiabatic', 'dynamics', 'in', 'photochemistry']
+
+
+['constructing', 'convex', 'energy', 'landscapes', 'for', 'atomistic', 'structure', 'optimization']
+
+
+['halogen', 'bond', 'structure', 'and', 'dynamics', 'from', 'molecular', 'simulations']
+
+
+['accelerating', 'atomistic', 'simulations', 'with', 'piecewise', 'machine', 'learned', 'ab', 'initio', 'potentials', 'at', 'a', 'classical', 'force', 'field', 'like', 'cost']
+
+
+['neural', 'network', 'based', 'in', 'silico', 'simulation', 'of', 'combustion', 'reactions']
+
+
+['dielectric', 'constant', 'of', 'supercritical', 'water', 'in', 'a', 'large', 'pressure–temperature', 'range']
+
+
+['combining', 'machine', 'learning', 'and', 'computational', 'chemistry', 'for', 'predictive', 'insights', 'into', 'chemical', 'systems']
+
+
+['biophysical', 'analysis', 'of', '', 'sars', '', '', 'cov', '', '2', 'transmission', 'and', 'theranostic', 'development', 'via', 'n', 'protein', 'computational', 'characterization']
+
+
+['physics', 'inspired', 'structural', 'representations', 'for', 'molecules', 'and', 'materials']
+
+
+['neural', 'network', 'force', 'fields', 'for', 'metal', 'growth', 'based', 'on', 'energy', 'decompositions']
+
+
+['gaussian', 'process', 'model', 'of', '51', 'dimensional', 'potential', 'energy', 'surface', 'for', 'protonated', 'imidazole', 'dimer']
+
+
+['a', 'universal', 'approximation', 'theorem', 'of', 'deep', 'neural', 'networks', 'for', 'expressing', 'probability', 'distributions']
+
+
+['development', 'of', 'robust', 'neural', 'network', 'interatomic', 'potential', 'for', 'molten', 'salt']
+
+
+['enabling', 'large', 'scale', 'condensed', 'phase', 'hybrid', 'density', 'functional', 'theory', 'based', '\\$', 'ab', '\\$\\$', 'initio', '\\$', 'molecular', 'dynamics', '', 'ii', '', '', 'extensions', 'to', 'the', 'isobaric', 'isoenthalpic', 'and', 'isobaric', 'isothermal', 'ensembles']
+
+
+['representing', 'local', 'atomic', 'environment', 'using', 'descriptors', 'based', 'on', 'local', 'correlations']
+
+
+['spatial', 'density', 'neural', 'network', 'force', 'fields', 'with', 'first', 'principles', 'level', 'accuracy', 'and', 'application', 'to', 'thermal', 'transport']
+
+
+['molecular', 'dynamics', 'simulations', 'of', 'molten', 'magnesium', 'chloride', 'using', 'machine', 'learning', 'based', 'deep', 'potential']
+
+
+['closing', 'the', 'gap', 'between', 'modeling', 'and', 'experiments', 'in', 'the', 'self', 'assembly', 'of', 'biomolecules', 'at', 'interfaces', 'and', 'in', 'solution']
+
+
+['machine', 'learning', 'driven', 'simulations', 'on', 'microstructure', 'and', 'thermophysical', 'properties', 'of', '', 'mgcl', '2–', 'kcl', '', 'eutectic']
+
+
+['isotope', 'effects', 'in', 'molecular', 'structures', 'and', 'electronic', 'properties', 'of', 'liquid', 'water', 'via', 'deep', 'potential', 'molecular', 'dynamics', 'based', 'on', 'the', '', 'scan', '', 'functional']
+
+
+['theoretical', 'prediction', 'on', 'the', 'local', 'structure', 'and', 'transport', 'properties', 'of', 'molten', 'alkali', 'chlorides', 'by', 'deep', 'potentials']
+
+
+['high', 'throughput', 'production', 'of', 'force', 'fields', 'for', 'solid', 'state', 'electrolyte', 'materials']
+
+
+['', 'maise', '', '', 'construction', 'of', 'neural', 'network', 'interatomic', 'models', 'and', 'evolutionary', 'structure', 'optimization']
+
+
+['accurate', 'and', 'scalable', 'multi', 'element', 'graph', 'neural', 'network', 'force', 'field', 'and', 'molecular', 'dynamics', 'with', 'direct', 'force', 'architecture']
+
+
+['co', 'segregation', 'of', 'mg', 'and', 'zn', 'atoms', 'at', 'the', 'planar', 'η1', 'precipitate/al', 'matrix', 'interface', 'in', 'an', 'aged', 'al–zn–mg', 'alloy']
+
+
+['wavelet', 'scattering', 'networks', 'for', 'atomistic', 'systems', 'with', 'extrapolation', 'of', 'material', 'properties']
+
+
+['integrating', 'machine', 'learning', 'with', 'physics', 'based', 'modeling']
+
+
+['', 'teanet', '', '', 'universal', 'neural', 'network', 'interatomic', 'potential', 'inspired', 'by', 'iterative', 'electronic', 'relaxations']
+
+
+['role', 'of', 'water', 'in', 'the', 'reaction', 'mechanism', 'and', 'endo/exo', 'selectivity', 'of', '1,', '3', 'dipolar', 'cycloadditions', 'elucidated', 'by', 'quantum', 'chemistry', 'and', 'machine', 'learning']
+
+
+['dielectric', 'response', 'with', 'short', 'ranged', 'electrostatics']
+
+
+['analytical', 'model', 'of', 'electron', 'density', 'and', 'its', 'machine', 'learning', 'inference']
+
+
+['temperature', 'dependent', 'thermal', 'and', 'elastic', 'properties', 'of', 'high', 'entropy', '(ti0.', '2zr0.', '2hf0.', '2nb0.', '2ta0.', '2)', 'b2', '', 'molecular', 'dynamics', 'simulation', 'by', 'deep', 'learning', 'potential']
+
+
+['bayesian', 'force', 'fields', 'from', 'active', 'learning', 'for', 'simulation', 'of', 'inter', 'dimensional', 'transformation', 'of', 'stanene']
+
+
+['development', 'of', 'interatomic', 'potential', 'for', 'al–tb', 'alloys', 'using', 'a', 'deep', 'neural', 'network', 'learning', 'method']
+
+
+['accelerating', 'finite', 'temperature', 'kohn', 'sham', 'density', 'functional', 'theory', 'with', 'deep', 'neural', 'networks']
+
+
+['discriminating', 'high', 'pressure', 'water', 'phases', 'using', 'rare', 'event', 'determined', 'ionic', 'dynamical', 'properties']
+
+
+['isotope', 'effects', 'in', 'x', 'ray', 'absorption', 'spectra', 'of', 'liquid', 'water']
+
+
+['spookynet', '', 'learning', 'force', 'fields', 'with', 'electronic', 'degrees', 'of', 'freedom', 'and', 'nonlocal', 'effects']
+
+
+['phase', 'equilibrium', 'of', 'water', 'with', 'hexagonal', 'and', 'cubic', 'ice', 'using', 'the', '', 'scan', '', 'functional']
+
+
+['machine', 'learning', 'for', 'nonadiabatic', 'molecular', 'dynamics']
+
+
+['machine', 'learning', 'metadynamics', 'simulation', 'of', 'reconstructive', 'phase', 'transition']
+
+
+['challenges', 'for', 'machine', 'learning', 'force', 'fields', 'in', 'reproducing', 'potential', 'energy', 'surfaces', 'of', 'flexible', 'molecules']
+
+
+['global', 'optimization', 'of', 'chemical', 'cluster', 'structures', '', 'methods,', 'applications,', 'and', 'challenges']
+
+
+['', 'tensoralloy', '', '', 'an', 'automatic', 'atomistic', 'neural', 'network', 'program', 'for', 'alloys']
+
+
+['transferability', 'of', 'machine', 'learning', 'potentials', '', 'protonated', 'water', 'neural', 'network', 'potential', 'applied', 'to', 'the', 'protonated', 'water', 'hexamer']
+
+
+['trajectory', 'based', 'machine', 'learning', 'method', 'and', 'its', 'application', 'to', 'molecular', 'dynamics']
+
+
+['heat', 'and', 'charge', 'transport', 'in', 'h', '2', 'o', 'at', 'ice', 'giant', 'conditions', 'from', 'ab', 'initio', 'molecular', 'dynamics', 'simulations']
+
+
+['validating', 'first', 'principles', 'molecular', 'dynamics', 'calculations', 'of', 'oxide/water', 'interfaces', 'with', 'x', 'ray', 'reflectivity', 'data']
+
+
+['sparse', 'gaussian', 'process', 'potentials', '', 'application', 'to', 'lithium', 'diffusivity', 'in', 'superionic', 'conducting', 'solid', 'electrolytes']
+
+
+['voxelized', 'atomic', 'structure', 'potentials', '', 'predicting', 'atomic', 'forces', 'with', 'the', 'accuracy', 'of', 'quantum', 'mechanics', 'using', 'convolutional', 'neural', 'networks']
+
+
+['modeling', 'and', 'predicting', 'responses', 'of', 'magnetoelectric', 'materials']
+
+
+['warm', 'dense', 'matter', 'simulation', 'via', 'electron', 'temperature', 'dependent', 'deep', 'potential', 'molecular', 'dynamics']
+
+
+['implementing', 'a', 'neural', 'network', 'interatomic', 'model', 'with', 'performance', 'portability', 'for', 'emerging', 'exascale', 'architectures']
+
+
+['exploring', 'the', 'chemical', 'space', 'of', 'linear', 'alkane', 'pyrolysis', 'via', 'deep', 'potential', '', 'generator', '']
+
+
+['faster', 'exact', 'exchange', 'in', 'periodic', 'systems', 'using', 'single', 'precision', 'arithmetic']
+
+
+['a', '', 'dft', '', 'accurate', 'machine', 'learning', 'description', 'of', 'molten', '', 'zncl', '2', 'and', 'its', 'mixtures', '', '1.', 'potential', 'development', 'and', 'properties', 'prediction', 'of', 'molten', '', 'zncl', '2']
+
+
+['phase', 'diagram', 'of', 'a', 'deep', 'potential', 'water', 'model']
+
+
+['grain', 'boundary', 'strengthening', 'in', '', 'zrb', '2', 'by', 'segregation', 'of', 'w', '', 'atomistic', 'simulations', 'with', 'deep', 'learning', 'potential']
+
+
+['crystal', 'structure', 'prediction', 'of', 'binary', 'alloys', 'via', 'deep', 'potential']
+
+
+['machine', 'learning', 'moment', 'closure', 'models', 'for', 'the', 'radiative', 'transfer', 'equation', 'i', '', 'directly', 'learning', 'a', 'gradient', 'based', 'closure']
+
+
+['toward', 'efficient', 'generation,', 'correction,', 'and', 'properties', 'control', 'of', 'unique', 'drug', 'like', 'structures']
+
+
+['de', 'novo', 'molecule', 'design', 'through', 'molecular', 'generative', 'model', 'conditioned', 'by', '3d', 'information', 'of', 'protein', 'binding', 'sites']
+
+
+['machine', 'learning', 'in', 'nano', 'scale', 'biomedical', 'engineering']
+
+
+['non', 'empirical', 'weighted', 'langevin', 'mechanics', 'for', 'the', 'potential', 'escape', 'problem', '', 'parallel', 'algorithm', 'and', 'application', 'to', 'the', 'argon', 'clusters']
+
+
+['multi', 'body', 'effects', 'in', 'a', 'coarse', 'grained', 'protein', 'force', 'field']
+
+
+['thermal', 'transport', 'by', 'electrons', 'and', 'ions', 'in', 'warm', 'dense', 'aluminum', '', 'a', 'combined', 'density', 'functional', 'theory', 'and', 'deep', 'potential', 'study']
+
+
+['a', 'machine', 'learning', 'approach', 'for', '', 'mp', '2', 'correlation', 'energies', 'and', 'its', 'application', 'to', 'organic', 'compounds']
+
+
+['transformative', 'applications', 'of', 'machine', 'learning', 'for', 'chemical', 'reactions']
+
+
+['molecular', '', 'ct', '', '', 'unifying', 'geometry', 'and', 'representation', 'learning', 'for', 'molecules', 'at', 'different', 'scales']
+
+
+['perspective', 'on', 'computational', 'reaction', 'prediction', 'using', 'machine', 'learning', 'methods', 'in', 'heterogeneous', 'catalysis']
+
+
+['adaptive', 'genetic', 'algorithm', 'for', 'structure', 'prediction', 'and', 'application', 'to', 'magnetic', 'materials']
+
+
+['learning', 'gradient', 'fields', 'for', 'molecular', 'conformation', 'generation']
+
+
+['deep', 'learning', 'of', 'accurate', 'force', 'field', 'of', 'ferroelectric', '', 'hfo', '', '2']
+
+
+['highly', 'accurate', 'many', 'body', 'potentials', 'for', 'simulations', 'of', 'n2o5', 'in', 'water', '', 'benchmarks,', 'development,', 'and', 'validation']
+
+
+['retention', 'and', 'recycling', 'of', 'deuterium', 'in', 'liquid', 'lithium', 'tin', 'slab', 'studied', 'by', 'first', 'principles', 'molecular', 'dynamics']
+
+
+['deep', 'potential', 'molecular', 'dynamics', '', 'a', 'scalable', 'model', 'with', 'the', 'accuracy', 'of', 'quantum', 'mechanics']
+
+
+['a', 'machine', 'learning', 'based', 'deep', 'potential', 'for', 'seeking', 'the', 'low', 'lying', 'candidates', 'of', 'al', 'clusters']
+
+
+['active', 'learning', 'accelerates', 'ab', 'initio', 'molecular', 'dynamics', 'on', 'pericyclic', 'reactive', 'energy', 'surfaces']
+
+
+['frame', 'independent', 'vector', 'cloud', 'neural', 'network', 'for', 'nonlocal', 'constitutive', 'modelling', 'on', 'arbitrary', 'grids']
+
+
+['characterizing', 'performance', 'improvement', 'of', '', 'gpus', '']
+
+
+['a', 'fourier', 'based', 'machine', 'learning', 'technique', 'with', 'application', 'in', 'engineering']
+
+
+['construction', 'of', 'a', 'neural', 'network', 'energy', 'function', 'for', 'protein', 'physics']
+
+
+['reinforcement', 'learning', 'for', 'multi', 'scale', 'molecular', 'modeling']
+
+
+['machine', 'learning', 'of', 'coarse', 'grained', 'models', 'for', 'organic', 'molecules', 'and', 'polymers', '', 'progress,', 'opportunities,', 'and', 'challenges']
+
+
+['computational', 'and', 'training', 'requirements', 'for', 'interatomic', 'potential', 'based', 'on', 'artificial', 'neural', 'network', 'for', 'estimating', 'low', 'thermal', 'conductivity', 'of', 'silver', 'chalcogenides']
+
+
+['machine', 'learning', 'dynamics', 'of', 'phase', 'separation', 'in', 'correlated', 'electron', 'magnets']
+
+
+['learning', 'thermodynamically', 'stable', 'and', 'galilean', 'invariant', 'partial', 'differential', 'equations', 'for', 'non', 'equilibrium', 'flows']
+
+
+['unsupervised', 'learning', 'methods', 'for', 'molecular', 'simulation', 'data']
+
+
+['a', 'linear', 'frequency', 'principle', 'model', 'to', 'understand', 'the', 'absence', 'of', 'overfitting', 'in', 'neural', 'networks']
+
+
+['electronically', 'driven', '1d', 'cooperative', 'diffusion', 'in', 'a', 'simple', 'cubic', 'crystal']
+
+
+['a', 'neural', 'network', 'based', 'framework', 'of', 'developing', 'cross', 'interaction', 'in', 'alloy', 'embedded', 'atom', 'method', 'potentials', '', 'application', 'to', 'zr–nb', 'alloy']
+
+
+['machine', 'learning', 'and', 'computational', 'mathematics']
+
+
+['molecular', 'excited', 'states', 'through', 'a', 'machine', 'learning', 'lens']
+
+
+['code', 'interoperability', 'extends', 'the', 'scope', 'of', 'quantum', 'simulations']
+
+
+['', 'powernet', '', '', 'efficient', 'representations', 'of', 'polynomials', 'and', 'smooth', 'functions', 'by', 'deep', 'neural', 'networks', 'with', 'rectified', 'power', 'units']
+
+
+['nuclear', 'quantum', 'effect', 'and', 'its', 'temperature', 'dependence', 'in', 'liquid', 'water', 'from', 'random', 'phase', 'approximation', 'via', 'artificial', 'neural', 'network']
+
+
+['compressing', 'physical', 'properties', 'of', 'atomic', 'species', 'for', 'improving', 'predictive', 'chemistry']
+
+
+['interfacial', 'potentials', 'in', 'ion', 'solvation']
+
+
+['a', 'transferable', 'active', 'learning', 'strategy', 'for', 'reactive', 'molecular', 'force', 'fields']
+
+
+['', 'mb', '', 'fit', '', 'software', 'infrastructure', 'for', 'data', 'driven', 'many', 'body', 'potential', 'energy', 'functions']
+
+
+['accurate', 'and', 'transferable', 'reactive', 'molecular', 'dynamics', 'models', 'from', 'constrained', 'density', 'functional', 'theory']
+
+
+['conformation', 'guided', 'molecular', 'representation', 'with', 'hamiltonian', 'neural', 'networks']
+
+
+['physically', 'inspired', 'atom', 'centered', 'symmetry', 'functions', 'for', 'the', 'construction', 'of', 'high', 'dimensional', 'neural', 'network', 'potential', 'energy', 'surfaces']
+
+
+['active', 'learning', 'accelerates', 'ab', 'initio', 'molecular', 'dynamics', 'on', 'reactive', 'energy', 'surfaces']
+
+
+['towards', 'modeling', 'spatiotemporal', 'processes', 'in', 'metal–organic', 'frameworks']
+
+
+['theoretical', 'study', 'of', 'na+', 'transport', 'in', 'the', 'solid', 'state', 'electrolyte', 'na', '3', '', 'obr', '', 'based', 'on', 'deep', 'potential', 'molecular', 'dynamics']
+
+
+['efficient', 'long', 'range', 'convolutions', 'for', 'point', 'clouds']
+
+
+['deep', 'learning', 'for', 'large', 'scale', 'molecular', 'dynamics', 'and', 'high', 'dimensional', 'partial', 'differential', 'equations']
+
+
+['enhancing', 'the', 'formation', 'of', 'ionic', 'defects', 'to', 'study', 'the', 'ice', 'ih/', 'xi', '', 'transition', 'with', 'molecular', 'dynamics', 'simulations']
+
+
+['arrested', 'phase', 'separation', 'in', 'double', 'exchange', 'models', '', 'machine', 'learning', 'enabled', 'large', 'scale', 'simulation']
+
+
+['atomic', 'state', 'dependent', 'screening', 'model', 'for', 'hot', 'and', 'warm', 'dense', 'plasmas']
+
+
+['dynamic', 'observation', 'of', 'dendritic', 'quasicrystal', 'growth', 'upon', 'laser', 'induced', 'solid', 'state', 'transformation']
+
+
+['effects', 'of', 'density', 'and', 'composition', 'on', 'the', 'properties', 'of', 'amorphous', 'alumina', '', 'a', 'high', 'dimensional', 'neural', 'network', 'potential', 'study']
+
+
+['geometric', 'prediction', '', 'moving', 'beyond', 'scalars']
+
+
+['the', 'structure', 'and', 'dynamics', 'of', 'materials', 'using', 'machine', 'learning']
+
+
+['building', 'machine', 'learning', 'force', 'fields', 'of', 'proteins', 'with', 'fragment', 'based', 'approach', 'and', 'transfer', 'learning']
+
+
+['efficiently', 'trained', 'deep', 'learning', 'potential', 'for', 'graphane']
+
+
+['non', 'classical', 'nucleation', 'pathways', 'in', 'stacking', 'disordered', 'crystals']
+
+
+['machine', 'learning', 'for', 'multi', 'scale', 'molecular', 'modeling', '', 'theories,', 'algorithms,', 'and', 'applications']
+
+
+['elinvar', 'effect', 'in', 'β', 'ti', 'simulated', 'by', 'on', 'the', 'fly', 'trained', 'moment', 'tensor', 'potential']
+
+
+['', 'fmo', '', 'interfaced', 'with', 'molecular', 'dynamics', 'simulation']
+
+
+['molecular', 'dynamics', 'study', 'of', 'charged', 'nanomaterials', '', 'electrostatics', 'and', 'self', 'assembly']
+
+
+['transfer', 'learning', 'of', 'potential', 'energy', 'surfaces', 'for', 'efficient', 'atomistic', 'modeling', 'of', 'doping', 'and', 'alloy']
+
+
+['discovery', 'and', 'implementation', 'of', 'fast,', 'accurate', 'and', 'transferable', 'many', 'body', 'interatomic', 'potentials']
+
+
+['development', 'of', 'a', 'machine', 'learning', 'potential', 'for', 'nucleotides', 'in', 'water']
+
+
+['interatomic', 'potential', 'in', 'a', 'simple', 'dense', 'neural', 'network', 'representation']
+
+
+['machine', 'learning', 'of', 'atomic', 'forces', 'from', 'quantum', 'mechanics', '', 'a', 'model', 'based', 'on', 'pairwise', 'interatomic', 'forces']
+
+
+['machine', 'learning', 'force', 'fields', '', 'recent', 'advances', 'and', 'remaining', 'challenges']
+
+
+['neural', 'network', 'for', 'the', 'prediction', 'of', 'force', 'differences', 'between', 'an', 'amino', 'acid', 'in', 'solution', 'and', 'vacuum']
+
+
+['deep', 'potential', 'generation', 'scheme', 'and', 'simulation', 'protocol', 'for', 'the', 'li10gep2s12', 'type', 'superionic', 'conductors']
+
+
+['machine', 'learning', 'kinetic', 'energy', 'functional', 'for', 'a', 'one', 'dimensional', 'periodic', 'system']
+
+
+['dielectric', 'constant', 'of', 'liquid', 'water', 'determined', 'with', 'neural', 'network', 'quantum', 'molecular', 'dynamics']
+
+
+['', 'dp', '', 'train,', 'then', '', 'dp', '', 'compress', '', 'model', 'compression', 'in', 'deep', 'potential', 'molecular', 'dynamics']
+
+
+['anomalous', 'phase', 'separation', 'and', 'hidden', 'coarsening', 'of', 'super', 'clusters', 'in', 'the', 'falicov', 'kimball', 'model']
+
+
+['deep', 'learning', '', 'new', 'engine', 'for', 'the', 'study', 'of', 'material', 'microstructures', 'and', 'physical', 'properties']
+
+
+['optimizing', 'training', 'data', 'set', 'for', 'the', 'machine', 'learning', 'potential', 'of', 'li', 'si', 'alloys', 'via', 'structural', 'similarity', 'based', 'screening']
+
+
+['dynamics', '\\&', 'spectroscopy', 'with', 'neutrons—recent', 'developments', '\\&', 'emerging', 'opportunities']
+
+
+['towards', 'fully', 'ab', 'initio', 'simulation', 'of', 'atmospheric', 'aerosol', 'nucleation']
+
+
+['transferrable', 'end', 'to', 'end', 'learning', 'for', 'protein', 'interface', 'prediction']
+
+
+['future', 'directions', 'of', 'chemical', 'theory', 'and', 'computation']
+
+
+['short', 'and', 'medium', 'range', 'orders', 'in', 'al90tb10', 'glass', 'and', 'their', 'relation', 'to', 'the', 'structures', 'of', 'competing', 'crystalline', 'phases']
+
+
+['differentiable', 'sampling', 'of', 'molecular', 'geometries', 'with', 'uncertainty', 'based', 'adversarial', 'attacks']
+
+
+['learning', 'intermolecular', 'forces', 'at', 'liquid', 'vapor', 'interfaces']
+
+
+['', 'random', '', '', 'phase', '', '', 'approximation', '', '', 'and', '', '', 'beyond', '', '', '', 'from', '', '', 'theory', '', '', 'to', '', '', 'realistic', '', '', 'materials', '']
+
+
+['classical', 'molecular', 'dynamics', 'using', 'neural', 'network', 'representations', 'of', 'potential', 'energy', 'surfaces']
+
+
+['ab', 'initio', 'molecular', 'dynamics', 'simulation', 'of', 'zinc', 'metalloproteins', 'with', 'enhanced', 'self', 'organizing', 'incremental', 'high', 'dimensional', 'neural', 'network']
+
+
+['automated', 'construction', 'of', 'neural', 'network', 'potential', 'energy', 'surface', '', 'the', 'enhanced', 'self', 'organizing', 'incremental', 'neural', 'network', 'deep', 'potential', 'method']
+
+
+['designing', 'models', 'using', 'machine', 'learning', '', 'one', 'body', 'reduced', 'density', 'matrices', 'and', 'spectra']
+
+
+['deterministic', 'and', 'statistical', 'approaches', 'to', 'quantum', 'chemistry']
+
+
+['building', 'machine', 'learning', 'force', 'fields', 'of', 'proteins', 'with', 'fragment', 'based', 'approach', 'and', 'data', 'transfer']
+
+
+['structure', 'and', 'dynamics', 'of', 'supercooled', 'liquid', 'ge2sb2te5', 'from', 'machine', 'learning', 'driven', 'simulations']
+
+
+['the', 'dynamic', 'control', 'of', 'the', 'light', 'signalling', 'device', 'in', 'real', 'time']
+
+
+['interaction', 'energy', 'prediction', 'of', 'organic', 'molecules', 'using', 'deep', 'tensor', 'neural', 'network']
+
+
+['physics', 'guided', 'deep', 'learning', 'for', 'dynamical', 'systems', '', 'a', 'survey']
+
+
+['deep', 'learning', 'potential', 'method', 'to', 'simulate', 'shear', 'viscosity', 'of', 'liquid', 'aluminum', 'at', 'high', 'temperature', 'and', 'high', 'pressure', 'by', 'molecular', 'dynamics']
+
+
+['force', 'field', 'development', 'and', 'nanoreactor', 'chemistry']
+
+
+['research', 'on', 'microstructure', 'and', 'physical', 'properties', 'of', 'molten', 'carbonate', 'salt', 'based', 'on', 'machine', 'learning']
+
+
+['accurate', 'and', 'scalable', 'graph', 'neural', 'network', 'force', 'field', 'and', 'molecular', 'dynamics', 'with', 'direct', 'force', 'architecture']
+
+
+['competitive', 'effect', 'of', 'disorder', 'and', 'defects', 'on', 'dynamic', 'structural', 'transformation', 'of', 'compressed', 'gold']
+
+
+['', 'hamnet', '', '', 'conformation', 'guided', 'molecular', 'representation', 'with', 'hamiltonian', 'neural', 'networks']
+
+
+['deep', 'learning', 'approach', 'to', 'first', 'principles', 'transport', 'simulations']
+
+
+['deep', 'learning', 'interatomic', 'potential', 'for', 'simulation', 'of', 'radiation', 'damage', 'in', 'vanadium', 'rich', 'v', 'cr', 'ti', 'ternary', 'alloys']
+
+
+['dataset', 'construction', 'to', 'explore', 'chemical', 'space', 'with', '3d', 'geometry', 'and', 'deep', 'learning']
+
+
+['structure', 'motif–centric', 'learning', 'framework', 'for', 'inorganic', 'crystalline', 'systems']
+
+
+['automatically', 'constructed', 'neural', 'network', 'potentials', 'for', 'molecular', 'dynamics', 'simulation', 'of', 'zinc', 'proteins']
+
+
+['modeling', 'electrified', 'metal/water', 'interfaces', 'from', 'ab', 'initio', 'molecular', 'dynamics', '', 'structure', 'and', 'helmholtz', 'capacitance']
+
+
+['symmetry', 'adapted', 'graph', 'neural', 'networks', 'for', 'constructing', 'molecular', 'dynamics', 'force', 'fields']
+
+
+['machine', 'learning', 'atomistic', 'simulation', 'of', 'reconstructive', 'phase', 'transition', '', 'nucleation,', 'growth,', 'and', 'path', 'selection']
+
+
+['neural', 'network', 'potentials', '', 'a', 'concise', 'overview', 'of', 'methods']
+
+
+['interatomic', 'potential', 'for', 'li', 'c', 'systems', 'from', 'cluster', 'expansion', 'to', 'artificial', 'neural', 'network', 'techniques']
+
+
+['efficient', 'training', 'of', 'machine', 'learning', 'potentials', 'by', 'a', 'randomized', 'atomic', 'system', 'generator']
+
+
+['structure', 'of', 'disordered', '', 'tio', '', '2', 'phases', 'from', 'ab', 'initio', 'based', 'deep', 'neural', 'network', 'simulations']
+
+
+['on', 'the', 'representation', 'of', 'solutions', 'to', 'elliptic', '', 'pdes', '', 'in', 'barron', 'spaces']
+
+
+['machine', 'learning', 'in', 'nano', 'scale', 'biomedical', 'engineering']
+
+
+['deep', 'neural', 'network', 'potentials', 'for', 'diffusional', 'lithium', 'isotope', 'fractionation', 'in', 'silicate', 'melts']
+
+
+['on', 'application', 'of', 'deep', 'learning', 'to', 'simplified', 'quantum', 'classical', 'dynamics', 'in', 'electronically', 'excited', 'states']
+
+
+['modeling', 'h', '2', 'o/rutile', '', 'tio', '', '2', '(110)', 'potential', 'energy', 'surfaces', 'with', 'deep', 'networks']
+
+
+['crystallization', 'of', 'the', 'p3sn4', 'phase', 'upon', 'cooling', 'p2sn5', 'liquid', 'by', 'molecular', 'dynamics', 'simulation', 'using', 'a', 'machine', 'learning', 'interatomic', 'potential']
+
+
+['accurate', 'deep', 'potential', 'model', 'for', 'the', 'al–cu–mg', 'alloy', 'in', 'the', 'full', 'concentration', 'space']
+
+
+['integrating', 'machine', 'learning', 'into', 'protein', 'ligand', 'scoring', 'function', 'development']
+
+
+['autonome', 'entdeckung', 'in', 'den', 'chemischen', 'wissenschaften,', 'teil', 'i', '', 'fortschritt']
+
+
+['multilevel', 'fine', 'tuning', '', 'closing', 'generalization', 'gaps', 'in', 'approximation', 'of', 'solution', 'maps', 'under', 'a', 'limited', 'budget', 'for', 'training', 'data']
+
+
+['water', 'dipole', 'and', 'quadrupole', 'moment', 'contributions', 'to', 'the', 'ion', 'hydration', 'free', 'energy', 'by', 'the', 'deep', 'neural', 'network', 'trained', 'with', 'ab', 'initio', 'molecular', 'dynamics', 'data']
+
+
+['data', 'driven', 'approaches', 'can', 'overcome', 'limitations', 'in', 'multireference', 'diagnostics']
+
+
+['deep', 'learning', 'interatomic', 'potential', 'for', 'irradiation', 'damage', 'simulations', 'in', '', 'mos', '2', 'with', 'ab', 'initial', 'accuracy']
+
+
+['a', '', 'dft', '', 'accurate', 'machine', 'learning', 'description', 'of', 'molten', '', 'zncl', '2', 'and', 'its', 'mixtures', '', '2.', 'potential', 'development', 'and', 'properties', 'prediction', 'of', '', 'zncl', '2', '', 'nacl', '', '', 'kcl', '', 'ternary', 'salt', 'for', '', 'csp', '']
+
+
+['understanding', 'simple', 'liquids', 'through', 'statistical', 'and', 'deep', 'learning', 'approaches']
+
+
+['neuroevolution', 'machine', 'learning', 'potentials', '', 'combining', 'high', 'accuracy', 'and', 'low', 'cost', 'in', 'atomistic', 'simulations', 'and', 'application', 'to', 'heat', 'transport']
+
+
+['investigations', 'of', 'water/oxide', 'interfaces', 'by', 'molecular', 'dynamics', 'simulations']
+
+
+['uncertain', 'times', 'call', 'for', 'quantitative', 'uncertainty', 'metrics', '', 'controlling', 'error', 'in', 'neural', 'network', 'predictions', 'for', 'chemical', 'discovery']
+
+
+['artificial', 'neutral', 'networks', '(', 'anns', ')', 'applied', 'as', '', 'cfd', '', '0ptimization', 'techniques']
+
+
+['computational', 'predictions', 'of', 'the', 'thermal', 'conductivity', 'of', 'solids', 'and', 'liquids']
+
+
+['manifold', 'learning', 'for', 'coarse', 'graining', 'atomistic', 'simulations', '', 'application', 'to', 'amorphous', 'solids']
+
+
+['quantum', 'accurate', 'magneto', 'elastic', 'predictions', 'with', 'classical', 'spin', 'lattice', 'dynamics']
+
+
+['', 'mlatom', '', '2', '', 'an', 'integrative', 'platform', 'for', 'atomistic', 'machine', 'learning']
+
+
+['efficient', 'sampling', 'of', 'equilibrium', 'states', 'using', 'boltzmann', 'generators']
+
+
+['introducing', 'block', 'design', 'in', 'graph', 'neural', 'networks', 'for', 'molecular', 'properties', 'prediction']
+
+
+['unsupervised', 'learning', 'of', 'atomic', 'environments', 'from', 'simple', 'features']
+
+
+['dynamical', 'processes', 'in', 'the', 'condensed', 'phase', '', 'methods', 'and', 'models']
+
+
+['adaptive', 'iron', 'based', 'magnetic', 'nanomaterials', 'of', 'high', 'performance', 'for', 'biomedical', 'applications']
+
+
+['theoretical', 'prediction', 'on', 'the', 'redox', 'potentials', 'of', 'rare', 'earth', 'ions', 'by', 'deep', 'potentials']
+
+
+['inferring', 'micro', 'bubble', 'dynamics', 'with', 'physics', 'informed', 'deep', 'learning']
+
+
+['deep', 'learning', 'methods', 'for', 'the', 'design', 'and', 'understanding', 'of', 'solid', 'materials']
+
+
+['development', 'of', 'range', 'corrected', 'deep', 'learning', 'potentials', 'for', 'fast,', 'accurate', 'quantum', 'mechanical/molecular', 'mechanical', 'simulations', 'of', 'chemical', 'reactions', 'in', 'solution']
+
+
+['the', 'study', 'of', 'the', 'optical', 'phonon', 'frequency', 'of', '3c', '', 'sic', '', 'by', 'molecular', 'dynamics', 'simulations', 'with', 'deep', 'neural', 'network', 'potential']
+
+
+['research', 'article', 'theoretical', 'prediction', 'on', 'thermal', 'and', 'mechanical', 'properties', 'of', 'high', 'entropy', '(zr0.', '2hf0.', '2ti0.', '2nb0.', '2ta0.', '2)', 'c', 'by', 'deep', 'learning', 'potential']
+
+
+['perspective', 'on', 'multi', 'scale', 'simulation', 'of', 'thermal', 'transport', 'in', 'solids', 'and', 'interfaces']
+
+
+['embedding', 'quantum', 'statistical', 'excitations', 'in', 'a', 'classical', 'force', 'field']
+
+
+['the', 'repetitive', 'local', 'sampling', 'and', 'the', 'local', 'distribution', 'theory']
+
+
+['estimating', 'thermal', 'conductivity', 'of', 'α', 'ag2se', 'using', '', 'ann', '', 'potential', 'with', 'chebyshev', 'descriptor']
+
+
+['traffic', 'control', 'through', 'traffic', 'density']
+
+
+['first', 'principles', 'study', 'on', 'the', 'structural', 'and', 'thermal', 'properties', 'of', 'molecular', 'crystals', 'and', 'liquids']
+
+
+['unravelling', 'the', 'fast', 'alkali', 'ion', 'dynamics', 'in', 'paramagnetic', 'battery', 'materials', 'combined', 'with', '', 'nmr', '', 'and', 'deep', 'potential', 'molecular', 'dynamics', 'simulation']
+
+
+['deep', 'machine', 'learning', 'interatomic', 'potential', 'for', 'liquid', 'silica']
+
+
+['characterizing', 'magnetic', 'skyrmions', 'at', 'their', 'fundamental', 'length', 'and', 'time', 'scales']
+
+
+['the', 'estimation', 'of', 'the', 'second', 'virial', 'coefficients', 'of', 'he', 'and', 'n2', 'based', 'on', 'neural', 'network', 'potentials', 'with', 'quantum', 'mechanical', 'calculations']
+
+
+['explore', 'the', 'chemical', 'space', 'of', 'linear', 'alkanes', 'pyrolysis', 'via', 'deep', 'potential', 'generator']
+
+
+['deep', 'learning', 'for', 'gravitational', 'wave', 'data', 'analysis', '', 'a', 'resampling', 'white', 'box', 'approach']
+
+
+['non', 'contact', 'ultrasound']
+
+
+['topology', 'automated', 'force', 'field', 'interactions', '(', 'taffi', ')', '', 'a', 'framework', 'for', 'developing', 'transferable', 'force', 'fields']
+
+
+['machine', 'learning', 'for', 'chemical', 'reactions']
+
+
+['anomalous', 'behavior', 'of', 'viscosity', 'and', 'electrical', 'conductivity', 'of', '', 'mgsio', '3', 'melt', 'at', 'mantle', 'conditions']
+
+
+['discovering', 'and', 'understanding', 'materials', 'through', 'computation']
+
+
+['machine', 'learning', 'for', 'alloys']
+
+
+['a', 'mathematical', 'principle', 'of', 'deep', 'learning', '', 'learn', 'the', 'geodesic', 'curve', 'in', 'the', 'wasserstein', 'space']
+
+
+['machine', 'learning', 'phase', 'space', 'quantum', 'dynamics', 'approaches']
+
+
+['a', 'bin', 'and', 'hash', 'method', 'for', 'analyzing', 'reference', 'data', 'and', 'descriptors', 'in', 'machine', 'learning', 'potentials']
+
+
+['deep', 'potential', 'molecular', 'dynamics', 'simulation', 'of', '100', 'million', 'atoms', 'with', 'ab', 'initio', 'accuracy']
+
+
+['int', 'deep', '', 'a', 'deep', 'learning', 'initialized', 'iterative', 'method', 'for', 'nonlinear', 'problems']
+
+
+['long', 'lived', 'hot', 'electron', 'in', 'a', 'metallic', 'particle', 'for', 'plasmonics', 'and', 'catalysis', '', 'ab', 'initio', 'nonadiabatic', 'molecular', 'dynamics', 'with', 'machine', 'learning']
+
+
+['the', 'application', 'of', 'data', 'driven', 'methods', 'and', 'physics', 'based', 'learning', 'for', 'improving', 'battery', 'safety']
+
+
+['atomic', 'cluster', 'expansion', '', 'completeness,', 'efficiency', 'and', 'stability']
+
+
+['combining', 'machine', 'learning', 'potential', 'and', 'structure', 'prediction', 'for', 'accelerated', 'materials', 'design', 'and', 'discovery']
+
+
+['reactive', 'uptake', 'of', 'n2o5', 'by', 'atmospheric', 'aerosol', 'is', 'dominated', 'by', 'interfacial', 'processes']
+
+
