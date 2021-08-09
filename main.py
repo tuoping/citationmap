@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import argparse
-from bibtex_parser import BibtexParser
+from bibtex_parser import myBibtexParser
 
 import re
 
@@ -10,24 +10,21 @@ def main () :
     
     args = parser.parse_args()
     
-    bd = BibtexParser(args)
-    bdlist = bd.entries
+    bd = myBibtexParser(args)
+    bdlist = bd.bib_database.entries
     print("Total num of articles = %d" % len(bdlist))
-    numfulltext = 0
-    numsnapshot = 0
-    for item in bdlist:
-        try:
-            item.pop("file")
-        except:
-            continue
 
-    keywords = []
-    for item in bdlist:
-        k = re.split(" |-|{|}|:", item['title'].lower())
-        keywords.append(k)
-    for item in keywords:
-        print(item)
-        print("\n")
+    bd.removeentry("file")
+    bd.removeentry("keywords")
+    bd.write("data/bib-refined/"+args.INPUT.split("/")[-1])
+
+    # keywords = []
+    # for item in bdlist:
+    #     k = re.split(" |-|{|}|:", item['title'].lower())
+    #     keywords.append(k)
+    # for item in keywords:
+    #     print(item)
+    #     print("\n")
 
 if __name__ == "__main__":
     main()

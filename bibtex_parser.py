@@ -1,5 +1,6 @@
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
+from bibtexparser.bwriter import BibTexWriter
 
 from bibtexparser.customization import *
 
@@ -22,13 +23,36 @@ def customizations(record):
     return record
 
 
-def BibtexParser(args):
-    FILE = args.INPUT
+class myBibtexParser () :
 
-    parser = BibTexParser(interpolate_strings=False)
-    parser.customization = customizations
+    def __init__(self, args):
+        FILE = args.INPUT
+        self.bib_database = self._BibTexParser(FILE)
 
-    with open(FILE) as bibtex_file:
-        bib_database = bibtexparser.load(bibtex_file, parser=parser)
-    
-    return bib_database
+    def _BibTexParser(self, FILE):
+        parser = BibTexParser(interpolate_strings=False)
+        # parser.customization = customizations
+        with open(FILE) as bibtex_file:
+            bib_database = bibtexparser.load(bibtex_file, parser = parser)
+        return bib_database
+
+    def removeentry(self, key):
+        for item in self.bib_database.entries:
+            value = item.setdefault(key)
+            del item[key]
+
+    def displayentry(self, key):
+        for item in self.bib_database.entries:
+            value = item.setdefault(key)
+            print(value)
+
+    def dump(self, filename):
+        with open(filename, 'w') as outputfile:
+            bibtexparser.dump(self.bib_database, outputfile)
+
+    def write(self, filename):
+        writer = BibTexWriter()
+        writer.indent = '    '     # indent entries with 4 spaces instead of one
+        with open(filename, "w") as outputfile:
+            outputfile.write(writer.write(self.bib_database))
+            
