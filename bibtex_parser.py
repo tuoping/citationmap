@@ -50,9 +50,14 @@ class myBibtexParser () :
         with open(filename, 'w') as outputfile:
             bibtexparser.dump(self.bib_database, outputfile)
 
-    def write(self, filename):
+    def write(self, filename, key_order=None):
         writer = BibTexWriter()
         writer.indent = '    '     # indent entries with 4 spaces instead of one
+        writer.order_entry_by = key_order
         with open(filename, "w") as outputfile:
             outputfile.write(writer.write(self.bib_database))
             
+    # def sort_by_value(key):
+    #     SelectedList = [item[key] for item in self.bib_database.entries]
+    #     Order = SelectedList.argsort()
+    #     return [self.bib_database.entries[i] for i in Order]
