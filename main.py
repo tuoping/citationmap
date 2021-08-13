@@ -16,10 +16,12 @@ def main () :
 
     bd.removeentry("file")
     bd.removeentry("keywords")
-    bd.write("data/bib-refined/"+args.INPUT.split("/")[-1], ("ENTRYTYPE", "year", "author"))
+    filename = args.INPUT.split("/")[-1]
+    bd.write("data/bib-refined/"+filename, ("ENTRYTYPE", "year", "author"))
 
     # keywords = []
-    # for item in bdlist:
+    for item in bdlist:
+       print(item["ID"])
     #     k = re.split(" |-|{|}|:", item['title'].lower())
     #     keywords.append(k)
     # for item in keywords:
